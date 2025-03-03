@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Item
+<h2>Detalles del Producto</h2>
+<p><strong>ID: </strong> @Model.id</p>
+<p><strong>Name: </strong> @Model.name</p>
+<p><strong>Type </strong> @Model.type</p>
+<p><strong>STR: </strong> @Model.STR</p>
+<p><strong>AGI: </strong> @Model.AGI</p>
+<p><strong>INTE: </strong> @Model.INTE</p>
+<p><strong>MND: </strong> @Model.MND</p>
+<p><strong>VIT: </strong> @Model.VIT</p>
+
+<a href="@Url.Action("Index", "Home")">Volver al Inicio</a>
+

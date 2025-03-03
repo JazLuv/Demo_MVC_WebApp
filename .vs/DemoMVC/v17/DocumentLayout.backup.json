@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\views\\home\\itemmuestra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\home\\itemmuestra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|c:\\users\\jazie\\desktop\\tecmilenio\\sexto_semestre\\webappd\\demomvc\\demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4BCDD37-1546-44D9-ADCD-BF4D960E62AF}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\.gitignore",
+              "RelativeDocumentMoniker": "DemoMVC\\.gitignore",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\.gitignore",
+              "RelativeToolTip": "DemoMVC\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T23:35:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\README.md",
+              "RelativeDocumentMoniker": "DemoMVC\\README.md",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\README.md",
+              "RelativeToolTip": "DemoMVC\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-28T23:27:56.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T01:51:21.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:48:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemMuestra.cshtml",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Views\\Home\\ItemMuestra.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Home\\ItemMuestra.cshtml",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Views\\Home\\ItemMuestra.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Home\\ItemMuestra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T01:38:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\jazie\\Desktop\\TecMilenio\\SEXTO_SEMESTRE\\WEBAPPD\\DemoMVC\\DemoMVC\\Models\\Item.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:19:03.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
